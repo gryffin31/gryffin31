@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on exciting data-driven projects and explore the realms of Data Analytics, Data Science, and Natural Language Processing (NLP) with like-minded professionals! Let's dive into the data and unleash the power of insights together! 🚀
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aishwarya-p-210819a8" target="_blank"><img src="linkedin_icon.png" alt="LinkedIn" width="20" height="20"></a> LinkedIn Profile
 - ⚡ Fun fact:I'm a globetrotter, foodie, and series addict all rolled into one! Traveling with my camera, eating my way through cuisines, and binge-watching series are my ultimate joys! 🌍📸🍔📺
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=gryffin31&show_icons=true" target="_blank">
+    <img src="images/github_icon.png" alt="gryffin31" width="50" height="50">
+  </a>
+</p>
