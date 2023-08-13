@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Natural Language Processing (NLP) to further enhance my data analytics skills!
 - 👯 I’m looking to collaborate on exciting data-driven projects and explore the realms of Data Analytics, Data Science, and Natural Language Processing (NLP) with like-minded professionals! Let's dive into the data and unleash the power of insights together! 🚀
 - ⚡ Fun fact:I'm a globetrotter, foodie, and series addict all rolled into one! Traveling with my camera, eating my way through cuisines, and binge-watching series are my ultimate joys! 🌍📸🍔📺
-
+<br>
 <div align="center">
   <a href="mailto:patnaik.aishwarya99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" width="80" height="30" />
@@ -40,6 +40,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" width="80" height="30" />
   </a>
 </div>
+<br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,git,docker,linkedin,mysql,vscode,github" />
+</div>
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
