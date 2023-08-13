@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gryffin31.gryffin31" />                 
+
 ### Hi there 👋
 
 <!--
