@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I am Aishwarya!</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there%2C+I+am+Aishwarya!;" />
+</h1>
 
 - 🌱 I’m currently learning Natural Language Processing (NLP) to further enhance my data analytics skills!
 - 👯 I’m looking to collaborate on exciting data-driven projects and explore the realms of Data Analytics, Data Science, and Natural Language Processing (NLP) with like-minded professionals! Let's dive into the data and unleash the power of insights together! 🚀
