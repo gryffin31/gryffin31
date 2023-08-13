@@ -21,36 +21,35 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Natural Language Processing (NLP) to further enhance my data analytics skills!
 - 👯 I’m looking to collaborate on exciting data-driven projects and explore the realms of Data Analytics, Data Science, and Natural Language Processing (NLP) with like-minded professionals! Let's dive into the data and unleash the power of insights together! 🚀
-- 📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/pattnaik-aishwarya-950b57282/" target="_blank">&#128101; LinkedIn</a> | 
-  <a href="mailto:patnaik.aishwarya99@gmail.com" target="_blank">&#9993; Gmail</a> | 
-  <a href="https://www.instagram.com/aishwaryapatnaik224/#" target="_blank">&#128247; Instagram</a> | 
-  <a href="https://medium.com/@aishwarya.pattnaik224" target="_blank">&#9997; Medium</a> | 
-  <a href="https://maps.app.goo.gl/HEv82ebaSnUsHhxr5" target="_blank">&#127969; Google Maps</a>
-  
+- ⚡ Fun fact:I'm a globetrotter, foodie, and series addict all rolled into one! Traveling with my camera, eating my way through cuisines, and binge-watching series are my ultimate joys! 🌍📸🍔📺
+
 <div align="center">
   <a href="mailto:patnaik.aishwarya99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" width="80" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/pattnaik-aishwarya-950b57282/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="30" />
   </a>
   <a href="https://app.mavenanalytics.io/projects" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" width="80" height="30" />
   </a>
   <a href="https://medium.com/@aishwarya.pattnaik224" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="80" height="30" />
   </a>
   <a href="https://maps.app.goo.gl/HEv82ebaSnUsHhxr5" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" width="80" height="30" />
   </a>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=gryffin31&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-gryffin31.vercel.app/api?username=gryffin31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats-gryffin31.vercel.app/api/top-langs/?username=gryffin31&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-- ⚡ Fun fact:I'm a globetrotter, foodie, and series addict all rolled into one! Traveling with my camera, eating my way through cuisines, and binge-watching series are my ultimate joys! 🌍📸🍔📺
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gryffin31&show_icons=true" target="_blank" alt="Aishwarya">
-</p>
-
+<br/><br/>
+<hr/>
 
