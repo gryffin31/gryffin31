@@ -27,6 +27,26 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/aishwaryapatnaik224/#" target="_blank">&#128247; Instagram</a> | 
   <a href="https://medium.com/@aishwarya.pattnaik224" target="_blank">&#9997; Medium</a> | 
   <a href="https://maps.app.goo.gl/HEv82ebaSnUsHhxr5" target="_blank">&#127969; Google Maps</a>
+  
+<div align="center">
+  <a href="mailto:patnaik.aishwarya99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/pattnaik-aishwarya-950b57282/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://app.mavenanalytics.io/projects" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://medium.com/@aishwarya.pattnaik224" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://maps.app.goo.gl/HEv82ebaSnUsHhxr5" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </a>
+</div>
+
+
 - ⚡ Fun fact:I'm a globetrotter, foodie, and series addict all rolled into one! Traveling with my camera, eating my way through cuisines, and binge-watching series are my ultimate joys! 🌍📸🍔📺
 
 <p align="center">
