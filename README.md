@@ -1,8 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:4C1D95,70:7C3AED,100:22D3EE&height=190&section=header&text=AISHWARYA&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20MACHINE%20LEARNING%20%7C%20MLOps&descSize=15&descColor=E9D5FF&descAlignY=63" width="100%" alt="Aishwarya animated portfolio banner"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&height=55&lines=Building+Intelligent+AI+Systems;Exploring+Agentic+AI+%26+MLOps;Turning+Ideas+Into+Working+Solutions" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Agentic+AI+%7C+Machine+Learning+%7C+MLOps;Building+Intelligent+Systems;Developing+Practical+AI+Solutions" alt="Animated introduction"/>
 
 <br/>
 
