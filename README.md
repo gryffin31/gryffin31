@@ -1,19 +1,20 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=36&duration=3000&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&height=60&lines=AISHWARYA" alt="Aishwarya"/>
+<h1>
+  <span style="color:#6D28D9;">AISHWARYA</span> 👋
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=35&lines=Agentic+AI+%7C+Machine+Learning+%7C+MLOps;Building+Practical+Intelligent+Solutions" alt="Technical interests"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=650&height=35&lines=Agentic+AI+%7C+Machine+Learning+%7C+MLOps;Building+Practical+Intelligent+Solutions" alt="Technical interests"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pattnaik-aishwarya-950b57282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:patnaik.aishwarya99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/gryffin31"><img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/pattnaik-aishwarya-950b57282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:patnaik.aishwarya99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/gryffin31"><img src="https://img.shields.io/badge/GitHub-Profile-6D28D9?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
----
 
 <h2 align="center">TECH STACK</h2>
 
