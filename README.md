@@ -1,18 +1,12 @@
 <div align="center">
 
-<h1>Hi, I'm Aishwarya 👋</h1>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=36&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=60&lines=AISHWARYA" alt="Aishwarya"/>
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Agentic+AI+%7C+Machine+Learning+%7C+MLOps;Building+Intelligent+Systems;Developing+Practical+AI+Solutions" alt="Animated introduction"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/pattnaik-aishwarya-950b57282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:patnaik.aishwarya99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/gryffin31"><img src="https://img.shields.io/badge/GitHub-Explore-18181B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=45&lines=Agentic+AI+%7C+Machine+Learning+%7C+MLOps;Building+Intelligent+Systems;Developing+Practical+AI+Solutions" alt="Animated tagline"/>
 
 </div>
-
----
 
 <h2 align="center">⚡ TECH STACK</h2>
 
